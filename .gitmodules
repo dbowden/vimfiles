@@ -1,0 +1,78 @@
+[submodule "vimfiles/bundle/Command-T"]
+	path = vimfiles/bundle/Command-T
+	url = https://github.com/wincent/Command-T
+[submodule ".\\vimfiles\\bundle\\VOoM"]
+	path = .\\vimfiles\\bundle\\VOoM
+	url = https://github.com/vim-scripts/VOoM
+[submodule ".\\vimfiles\\bundle\\cua-mode"]
+	path = .\\vimfiles\\bundle\\cua-mode
+	url = https://github.com/fabi1cazenave/cua-mode.vim
+[submodule ".\\vimfiles\\bundle\\delimitMate"]
+	path = .\\vimfiles\\bundle\\delimitMate
+	url = https://github.com/Raimondi/delimitMate
+[submodule ".\\vimfiles\\bundle\\nerdtree"]
+	path = .\\vimfiles\\bundle\\nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule ".\\vimfiles\\bundle\\supertab"]
+	path = .\\vimfiles\\bundle\\supertab
+	url = https://github.com/ervandew/supertab
+[submodule ".\\vimfiles\\bundle\\tlib_vim"]
+	path = .\\vimfiles\\bundle\\tlib_vim
+	url = https://github.com/tomtom/tlib_vim
+[submodule ".\\vimfiles\\bundle\\vim-addon-mw-utils"]
+	path = .\\vimfiles\\bundle\\vim-addon-mw-utils
+	url = https://github.com/MarcWeber/vim-addon-mw-utils
+[submodule ".\\vimfiles\\bundle\\vim-colors-solarized"]
+	path = .\\vimfiles\\bundle\\vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule ".\\vimfiles\\bundle\\vim-fugitive"]
+	path = .\\vimfiles\\bundle\\vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule ".\\vimfiles\\bundle\\vim-latex"]
+	path = .\\vimfiles\\bundle\\vim-latex
+	url = https://github.com/jcf/vim-latex
+[submodule ".\\vimfiles\\bundle\\vim-pandoc"]
+	path = .\\vimfiles\\bundle\\vim-pandoc
+	url = https://github.com/vim-pandoc/vim-pandoc
+[submodule ".\\vimfiles\\bundle\\vim-snipmate"]
+	path = .\\vimfiles\\bundle\\vim-snipmate
+	url = https://github.com/garbas/vim-snipmate
+[submodule "vimfiles\\bundle\\ctrlp"]
+	path = vimfiles\\bundle\\ctrlp
+	url = https://github.com/kien/ctrlp.vim
+[submodule "vimfiles/bundle/ctrlp"]
+	path = vimfiles/bundle/ctrlp
+	url = https://github.com/kien/ctrlp.vim
+[submodule "vimfiles/bundle/voom"]
+	path = vimfiles/bundle/voom
+	url = https://github.com/vim-scripts/VOoM
+[submodule "vimfiles/bundle/vim-r"]
+	path = vimfiles/bundle/vim-r
+	url = https://github.com/vim-scripts/Vim-R-plugin
+[submodule "vimfiles/bundle/cua"]
+	path = vimfiles/bundle/cua
+	url = https://github.com/fabi1cazenave/cua-mode.vim
+[submodule "vimfiles/bundle/delimitMate"]
+	path = vimfiles/bundle/delimitMate
+	url = https://github.com/Raimondi/delimitMate
+[submodule "vimfiles/bundle/nerdtree"]
+	path = vimfiles/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "vimfiles/bundle/supertab"]
+	path = vimfiles/bundle/supertab
+	url = https://github.com/ervandew/supertab
+[submodule "vimfiles/bundle/solarized"]
+	path = vimfiles/bundle/solarized
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule "vimfiles/bundle/fugitive"]
+	path = vimfiles/bundle/fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "vimfiles/bundle/latex"]
+	path = vimfiles/bundle/latex
+	url = https://github.com/jcf/vim-latex
+[submodule "vimfiles/bundle/pandoc"]
+	path = vimfiles/bundle/pandoc
+	url = https://github.com/vim-pandoc/vim-pandoc
+[submodule "vimfiles/bundle/ultisnips"]
+	path = vimfiles/bundle/ultisnips
+	url = https://github.com/SirVer/ultisnips
